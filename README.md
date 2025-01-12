@@ -1,2 +1,2 @@
 # reading
-记录自己平时读过的书，以及一些感想。
+A collection of books I've read and my thoughts about them.
